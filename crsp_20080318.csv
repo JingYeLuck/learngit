@@ -1,0 +1,891 @@
+notice,snl_name,snl_type,entity,permco,dt_start,dt_end
+"The PERMCOs displayed herein are used with the permission of the Center for Research in Security Prices (CRSP®), Graduate School of Business, The University of Chicago. PERMCO® is a registered trademark of The University of Chicago.","","",,,,
+"The University of Chicago and CRSP make no warranty of any kind, express or implied, with respect to the validity, merchantability, fitness, condition, use or appropriateness of the PERMCOs or the links to the PERMCOs displayed herein.","","",,,,
+"","Trust Company of New Jersey (The)","Commercial Bank",31303,5918,19931229,20040514
+"","Bank of Commerce","Commercial Bank",36063,13953,10000101,99991231
+"","Lafayette American Bank and Trust Company","Commercial Bank",63304,9796,10000101,99991231
+"","American Pacific Bank","Commercial Bank",92162,10537,10000101,99991231
+"","Western Bank","Commercial Bank",142067,7944,10000101,99991231
+"","Desert Community Bank","Commercial Bank",155263,14022,10000101,99991231
+"","California State Bank","Commercial Bank",163969,10035,10000101,99991231
+"","Bank of Hemet","Commercial Bank",183668,,10000101,99991231
+"","Borel Bank & Trust Company","Commercial Bank",208169,15904,10000101,99991231
+"","Union Bank","Commercial Bank",212465,841,19721214,19960331
+"","Bank of Santa Clara","Commercial Bank",231961,15274,10000101,99991231
+"","Sumitomo Bank of California","Commercial Bank",257569,4313,10000101,99991231
+"","Metrobank","Commercial Bank",280763,8759,10000101,99991231
+"","Yadkin Valley Bank and Trust Company","Commercial Bank",282329,16427,10000101,99991231
+"","ArgentBank","Commercial Bank",368634,11688,10000101,99991231
+"","Santa Monica Bank","Commercial Bank",375669,3976,10000101,99991231
+"","Wilshire State Bank","Commercial Bank",382667,16321,19981119,20040831
+"","Bank of Southington, The","Commercial Bank",389200,9152,10000101,99991231
+"","Valle de Oro Bank, National Association","Commercial Bank",417064,16318,10000101,99991231
+"","City Bank","Commercial Bank",456474,16572,10000101,99991231
+"","Pacific Bank, N.A.","Commercial Bank",518868,10458,10000101,99991231
+"","Jefferson Bank","Commercial Bank",535913,7822,10000101,99991231
+"","Franklin Bank, N.A.","Commercial Bank",558172,7985,19860205,20031022
+"","Putnam Trust Company of Greenwich","Commercial Bank",567606,3718,10000101,99991231
+"","Orange National Bancorp","Bank Holding Company",605263,14361,10000101,99991231
+"","First Charter Bank, N.A.","Commercial Bank",606569,12732,10000101,99991231
+"","County Bank of Chesterfield","Commercial Bank",629223,14056,10000101,99991231
+"","Bank of the Sierra","Commercial Bank",662369,16578,19990610,20010809
+"","Bank of Los Angeles","Commercial Bank",662864,14853,10000101,99991231
+"","Far East National Bank","Commercial Bank",676160,11395,10000101,99991231
+"","Perpetual State Bank","Commercial Bank",683270,13664,10000101,99991231
+"","Wainwright Bank & Trust Company","Commercial Bank",689302,9974,10000101,99991231
+"","Riverside National Bank","Commercial Bank",689562,8999,10000101,99991231
+"","Fairfield First Bank and Trust Company","Commercial Bank",699002,7807,10000101,99991231
+"","Heritage Bancorp, Inc.","Bank Holding Company",742225,16116,10000101,99991231
+"","Bank of McKenney","Commercial Bank",746429,43502,10000101,99991231
+"","Republic Bank","Commercial Bank",746465,9529,10000101,99991231
+"","Commerce Bank/Harrisburg, N.A.","Commercial Bank",775214,13291,19940825,19990630
+"","Bank of Suffolk","Commercial Bank",788924,13032,19940429,19950531
+"","Liberty National Bank","Commercial Bank",800965,10487,10000101,99991231
+"","Pacific Union Bank","Commercial Bank",803162,38453,10000101,99991231
+"","Bank of San Pedro","Commercial Bank",813563,10784,10000101,99991231
+"","Security Bank Corporation","Commercial Bank",855929,14759,10000101,99991231
+"","Valley Independent Bank","Commercial Bank",877369,15669,19970825,19980312
+"","First Bank of Philadelphia","Commercial Bank",884312,9348,10000101,99991231
+"","Intercontinental Bank","Commercial Bank",888534,10875,10000101,99991231
+"","University Bank & Trust Co.","Commercial Bank",917667,4693,10000101,99991231
+"","Commerce Bank","Commercial Bank",969723,11350,10000101,99991231
+"","Flemington National Bank and Trust","Bank Holding Company",981604,13347,10000101,99991231
+"","Glastonbury Bank and Trust Company","Commercial Bank",1013708,14820,10000101,99991231
+"","Commercial Bancorporation of Colorado","Bank Holding Company",1020331,775,10000101,99991231
+"","Republic New York Corporation","Bank Holding Company",1021075,21506,10000101,99991231
+"","Frankford Corporation (The)","Bank Holding Company",1022728,7279,10000101,99991231
+"","CPB Inc.","Bank Holding Company",1022764,9449,10000101,99991231
+"","Meridian Bancorp, Inc.","Bank Holding Company",1023060,302,10000101,99991231
+"","Commercial Bancshares, Incorporated","Bank Holding Company",1023097,31656,10000101,99991231
+"","Merchants Bancshares, Inc.","Bank Holding Company",1023239,7724,10000101,99991231
+"","First Interstate Bancorp","Bank Holding Company",1023538,20720,10000101,99991231
+"","First Security Corporation","Bank Holding Company",1024058,1846,10000101,99991231
+"","Bank of Hawaii Corporation","Bank Holding Company",1025309,589,10000101,99991231
+"","Westamerica Bancorporation","Bank Holding Company",1025541,2253,10000101,99991231
+"","BancWest Corporation","Bank Holding Company",1025608,1718,10000101,99991231
+"","U.S. Bancorp","Bank Holding Company",1025701,4717,10000101,99991231
+"","BankAmerica Corporation","Bank Holding Company",1026016,437,10000101,99991231
+"","Charles Schwab Corporation","Bank Holding Company",1026632,21578,10000101,99991231
+"","Fremont General Corporation","Bank Holding Company",1026801,1830,10000101,99991231
+"","Zions Bancorporation","Bank Holding Company",1027004,5057,10000101,99991231
+"","Wells Fargo & Company","Bank Holding Company",1027095,21902,10000101,99991231
+"","City National Corporation","Bank Holding Company",1027518,1194,10000101,99991231
+"","Imperial Bancorp","Bank Holding Company",1027602,2252,10000101,99991231
+"","California Bancshares, Inc.","Bank Holding Company",1027741,10195,10000101,99991231
+"","CB Bancshares, Inc.","Bank Holding Company",1028412,7631,10000101,99991231
+"","Pacific Western Bancshares, Inc.","Bank Holding Company",1028458,6558,10000101,99991231
+"","West One Bancorp","Bank Holding Company",1028953,2887,10000101,99991231
+"","Eldorado Bancorp","Bank Holding Company",1029035,1496,10000101,99991231
+"","Centennial Bancorp","Bank Holding Company",1029071,8834,10000101,99991231
+"","SC Bancorp","Bank Holding Company",1029110,28991,10000101,99991231
+"","GBC Bancorp","Bank Holding Company",1029213,9615,10000101,99991231
+"","CVB Financial Corp.","Bank Holding Company",1029222,5856,10000101,99991231
+"","Bank of San Francisco Holding Company","Bank Holding Company",1029286,8346,10000101,99991231
+"","North Valley Bancorp","Bank Holding Company",1029334,16041,10000101,99991231
+"","First Regional Bancorp","Bank Holding Company",1029428,2026,10000101,99991231
+"","BWC Financial Corp.","Bank Holding Company",1029576,16220,10000101,99991231
+"","CU Bancorp","Bank Holding Company",1029585,9304,10000101,99991231
+"","Pacific Capital Bancorp","Bank Holding Company",1029884,14615,10000101,99991231
+"","Commercial Bancorp","Bank Holding Company",1029893,10519,10000101,99991231
+"","Business Bancorp","Bank Holding Company",1029923,10636,19900613,19940930
+"","North Country Bancorp","Bank Holding Company",1029932,14903,10000101,99991231
+"","Bank of Commerce Holdings","Bank Holding Company",1030040,45295,10000101,99991231
+"","Professional Bancorp, Inc.","Bank Holding Company",1030095,10451,10000101,99991231
+"","TriCo Bancshares","Bank Holding Company",1030170,12086,10000101,99991231
+"","American Bancorp of Nevada","Bank Holding Company",1030200,10464,10000101,99991231
+"","Transworld Bancorp","Bank Holding Company",1030330,4602,10000101,99991231
+"","Sterling West Bancorp","Bank Holding Company",1030509,11630,10000101,99991231
+"","Sunrise Bancorp","Bank Holding Company",1030536,10200,10000101,99991231
+"","National Bancorp of Alaska, Inc.","Bank Holding Company",1030611,5241,10000101,99991231
+"","PNB Financial Group","Bank Holding Company",1030808,16175,10000101,99991231
+"","SDNB  Financial Corp.","Bank Holding Company",1030835,9512,10000101,99991231
+"","Landmark Bancorp","Bank Holding Company",1030901,10367,10000101,99991231
+"","Cal Rep Bancorp, Inc.","Bank Holding Company",1030910,9254,10000101,99991231
+"","Security Bank Holding Company","Bank Holding Company",1031168,14954,10000101,99991231
+"","VRB Bancorp","Bank Holding Company",1031298,15807,10000101,99991231
+"","Frontier Financial Corporation","Bank Holding Company",1031346,16053,10000101,99991231
+"","Guardian Bancorp","Bank Holding Company",1031412,20856,10000101,99991231
+"","Foothill Independent Bancorp","Bank Holding Company",1031430,10193,10000101,99991231
+"","Silicon Valley Bancshares","Bank Holding Company",1031449,9588,10000101,99991231
+"","SJNB Financial Corporation","Bank Holding Company",1031506,7741,10000101,99991231
+"","United Security Bancorporation","Bank Holding Company",1031627,13712,10000101,99991231
+"","National Mercantile Bancorp","Bank Holding Company",1031681,9446,10000101,99991231
+"","Pacific Inland Bancorp","Bank Holding Company",1031748,7054,10000101,99991231
+"","Pacific Capital Bancorp","Bank Holding Company",1031766,15169,10000101,99991231
+"","Western Bancorp","Bank Holding Company",1031775,15508,10000101,99991231
+"","FP Bancorp, Inc.","Bank Holding Company",1031793,13670,10000101,99991231
+"","West Coast Bancorp","Bank Holding Company",1031953,9957,10000101,99991231
+"","Ventura County National Bancorp","Bank Holding Company",1032053,10447,10000101,99991231
+"","Civic Bancorp","Bank Holding Company",1032101,10468,10000101,99991231
+"","Financial Institutions, Inc.","Bank Holding Company",1032464,16609,10000101,99991231
+"","Bankers Trust Corporation","Bank Holding Company",1032473,20266,10000101,99991231
+"","Bank of New York Company, Inc.","Bank Holding Company",1033470,20265,10000101,99991231
+"","Summit Bancorp","Bank Holding Company",1033872,21822,10000101,99991231
+"","First Fidelity Bancorp","Bank Holding Company",1033993,20717,19701221,19880228
+"","Keycorp","Bank Holding Company",1034806,2535,19711231,19940301
+"","First Empire State Corporation","Bank Holding Company",1037003,1689,10000101,99991231
+"","JP Morgan Co.","Bank Holding Company",1037115,21222,10000101,99991231
+"","Ramapo Financial Corporation","Bank Holding Company",1039427,3868,10000101,99991231
+"","Sterling Bancorp","Bank Holding Company",1039454,21670,10000101,99991231
+"","Chase Manhattan Bank (The)","Bank Holding Company",1039502,20436,10000101,99991231
+"","Chase Manhattan Bank (The)","Bank Holding Company",1040795,20432,10000101,99991231
+"","Citicorp","Bank Holding Company",1042351,20456,19681101,19981007
+"","Summit Bancorp","Bank Holding Company",1047897,4307,10000101,99991231
+"","U.S. Trust Corporation","Bank Holding Company",1048184,4737,19721214,19950901
+"","Evergreen Bancorp, Inc.","Bank Holding Company",1048399,7727,10000101,99991231
+"","North Fork Bancorporation, Inc.","Bank Holding Company",1048429,5627,10000101,99991231
+"","Broad National Bancorporation","Bank Holding Company",1048456,9802,10000101,99991231
+"","Jeffersonville Bancorp","Bank Holding Company",1048504,16084,10000101,99991231
+"","TrustCo Bank Corp of NY","Bank Holding Company",1048513,5926,10000101,99991231
+"","Letchworth Independent Bancshares Corporation","Bank Holding Company",1048531,12751,10000101,99991231
+"","Hudson United Bancorp","Bank Holding Company",1048625,2231,10000101,99991231
+"","U.S.B. Holding Co., Inc.","Bank Holding Company",1048652,31961,10000101,99991231
+"","Wilber Corporation (The)","Bank Holding Company",1048670,44919,10000101,99991231
+"","High Point Financial Corp.","Bank Holding Company",1048746,15308,10000101,99991231
+"","Center Bancorp, Inc.","Bank Holding Company",1048764,14751,10000101,99991231
+"","Valley National Bancorp","Bank Holding Company",1048773,4818,10000101,99991231
+"","Village Bancorp, Inc.","Bank Holding Company",1048782,12398,10000101,99991231
+"","Arrow Financial Corporation","Bank Holding Company",1048812,1940,10000101,99991231
+"","United Counties Bancorporation","Bank Holding Company",1048821,5607,10000101,99991231
+"","Community Bank System, Inc.","Bank Holding Company",1048867,7871,10000101,99991231
+"","First of Long Island Corporation (The)","Bank Holding Company",1048894,8879,10000101,99991231
+"","Westport Bancorp, Inc.","Bank Holding Company",1048915,7307,10000101,99991231
+"","Hamptons Bancshares, Inc.","Bank Holding Company",1048924,8667,10000101,99991231
+"","Independence Bancorp, Inc.","Bank Holding Company",1048942,11853,10000101,99991231
+"","FNB Rochester Corp.","Bank Holding Company",1048951,8506,10000101,99991231
+"","Smithtown Bancorp, Incorporated","Bank Holding Company",1048997,45090,10000101,99991231
+"","Commerce Bancshares, Inc.","Bank Holding Company",1049341,779,10000101,99991231
+"","United Missouri Bancshares, Inc.","Bank Holding Company",1049828,4673,10000101,99991231
+"","Gold Banc Corporation, Inc.","Bank Holding Company",1050600,15150,10000101,99991231
+"","Central Mortgage Bancshares, Inc.","Bank Holding Company",1050888,11771,10000101,99991231
+"","Firstier Financial, Inc.","Bank Holding Company",1052015,3375,10000101,99991231
+"","Fourth Financial Corporation","Bank Holding Company",1053441,1839,10000101,99991231
+"","CoBiz Inc.","Bank Holding Company",1060328,16163,10000101,99991231
+"","Southwest Bancorp, Inc.","Bank Holding Company",1062621,12704,10000101,99991231
+"","Mountain Parks Financial Corp.","Bank Holding Company",1065332,12309,10000101,99991231
+"","Liberty Bancorp, Inc.","Bank Holding Company",1066544,2655,10000101,99991231
+"","Society Corp","Bank Holding Company",1068025,4183,19721214,19940301
+"","KeyCorp","Bank Holding Company",1068025,2535,19940302,99991231
+"","Huntington Bancshares Incorporated","Bank Holding Company",1068191,2093,10000101,99991231
+"","Bank One Corporation","Bank Holding Company",1068294,606,10000101,99991231
+"","American Bancorporation","Bank Holding Company",1068623,196,10000101,99991231
+"","Mellon Financial Corporation","Bank Holding Company",1068762,2968,10000101,99991231
+"","National City Corporation","Bank Holding Company",1069125,3157,10000101,99991231
+"","PNC Financial Services Group, Inc. (The)","Bank Holding Company",1069778,3685,10000101,99991231
+"","Star Banc Corporation","Bank Holding Company",1070251,1788,19740102,19981119
+"","F.N.B. Corporation","Bank Holding Company",1070288,8534,19750411,20010601
+"","First West Virginia Bancorp, Inc.","Bank Holding Company",1070336,30857,10000101,99991231
+"","Fifth Third Bancorp","Bank Holding Company",1070345,1741,10000101,99991231
+"","WesBanco, Inc.","Bank Holding Company",1070448,9147,10000101,99991231
+"","Peoples Bancorp Inc.","Bank Holding Company",1070578,11950,10000101,99991231
+"","Provident Bancorp, Inc.","Bank Holding Company",1070617,3658,10000101,99991231
+"","Community Trust Bancorp, Inc.","Bank Holding Company",1070644,9645,10000101,99991231
+"","Pennbancorp","Bank Holding Company",1070662,3614,19801231,19881230
+"","Oak Hill Financial, Inc.","Bank Holding Company",1070747,14042,10000101,99991231
+"","NB&T Financial Group, Inc.","Bank Holding Company",1070756,44119,10000101,99991231
+"","FirstMerit Corporation","Bank Holding Company",1070804,5259,10000101,99991231
+"","Mid Am, Inc.","Bank Holding Company",1070952,7030,10000101,99991231
+"","Southwest National Corporation","Bank Holding Company",1070961,7678,10000101,99991231
+"","Sky Financial Group, Inc.","Bank Holding Company",1071203,12170,10000101,99991231
+"","First Financial Bancorp.","Bank Holding Company",1071276,6736,10000101,99991231
+"","First Commonwealth Financial Corporation","Bank Holding Company",1071306,29505,10000101,99991231
+"","Belmont Bancorp.","Bank Holding Company",1071379,13376,10000101,99991231
+"","S&T Bancorp, Inc.","Bank Holding Company",1071397,11480,10000101,99991231
+"","Rurban Financial Corp.","Bank Holding Company",1071454,33945,10000101,99991231
+"","United Bancorp, Inc.","Bank Holding Company",1071502,11981,10000101,99991231
+"","Unizan Financial Corp.","Bank Holding Company",1071632,33717,19990915,20060228
+"","LNB Bancorp, Inc.","Bank Holding Company",1071669,17957,10000101,99991231
+"","First Western Bancorp, Inc.","Bank Holding Company",1071696,10173,10000101,99991231
+"","Cobancorp Inc.","Bank Holding Company",1071717,12322,10000101,99991231
+"","First Virginia Banks, Inc.","Bank Holding Company",1071968,20724,10000101,99991231
+"","Signet Banking Corporation","Bank Holding Company",1072107,21619,10000101,99991231
+"","Crestar Financial Corporation","Bank Holding Company",1072237,4752,10000101,99991231
+"","United Carolina Bankshares Corporation","Bank Holding Company",1072394,4632,10000101,99991231
+"","Mercantile Bankshares Corporation","Bank Holding Company",1072442,3029,10000101,99991231
+"","Wachovia Corporation","Bank Holding Company",1073551,1869,10000101,99991231
+"","Bank of America Corporation","Bank Holding Company",1073757,3151,10000101,99991231
+"","BB&T Corporation","Bank Holding Company",1074156,4163,10000101,99991231
+"","F&M National Corporation","Bank Holding Company",1074567,1782,10000101,99991231
+"","BB&T Financial Corporation","Bank Holding Company",1074790,582,10000101,99991231
+"","MainStreet Financial Corporation","Bank Holding Company",1074866,6170,10000101,99991231
+"","Central Fidelity Banks, Inc.","Bank Holding Company",1074875,842,10000101,99991231
+"","Jefferson Bankshares, Inc.","Bank Holding Company",1074923,2440,10000101,99991231
+"","Riggs National Corporation","Bank Holding Company",1075126,3849,10000101,99991231
+"","One Valley Bancorp, Inc.","Bank Holding Company",1075201,8072,10000101,99991231
+"","Abigail Adams National Bancorp, Inc.","Bank Holding Company",1075500,14811,10000101,99991231
+"","Citizens Bancorp","Bank Holding Company",1075573,6579,10000101,99991231
+"","First Citizens BancShares, Inc.","Bank Holding Company",1075612,8674,10000101,99991231
+"","NBSC Corporation","Bank Holding Company",1075890,5579,10000101,99991231
+"","First Fidelity Bancorp, Inc.","Bank Holding Company",1075966,9106,10000101,99991231
+"","LSB Bancshares, Inc.","Bank Holding Company",1076002,7702,10000101,99991231
+"","CCB Financial Corporation","Bank Holding Company",1076039,786,10000101,99991231
+"","Security Capital Bancorp","Bank Holding Company",1076093,7917,10000101,99991231
+"","First Charter Corporation","Bank Holding Company",1076132,9232,10000101,99991231
+"","United Bankshares, Inc.","Bank Holding Company",1076217,9213,10000101,99991231
+"","Horizon Bancorp, Inc.","Bank Holding Company",1076244,12260,10000101,99991231
+"","City Holding Company","Bank Holding Company",1076262,9280,10000101,99991231
+"","F&M Bancorp","Bank Holding Company",1076413,11369,10000101,99991231
+"","First Bancorp","Bank Holding Company",1076431,9141,10000101,99991231
+"","Anchor Financial Corporation","Bank Holding Company",1076477,8779,10000101,99991231
+"","L S B Bancshares, Inc of South Carolina","Bank Holding Company",1076543,8030,10000101,99991231
+"","Matewan BancShares, Inc.","Bank Holding Company",1076570,13121,10000101,99991231
+"","Fauquier Bankshares, Inc.","Bank Holding Company",1076600,17667,10000101,99991231
+"","Old Point Financial Corporation","Bank Holding Company",1076673,37177,10000101,99991231
+"","American National Bankshares Inc.","Bank Holding Company",1076691,16487,10000101,99991231
+"","Baltimore Bancorp","Bank Holding Company",1076712,7276,10000101,99991231
+"","Barnet Banks, Inc.","Bank Holding Company",1076776,586,10000101,99991231
+"","Jefferson Bancorp, Inc.","Bank Holding Company",1078163,2439,10000101,99991231
+"","Regions Financial Corporation","Bank Holding Company",1078332,1620,19710713,20040630
+"","First American Corporation","Bank Holding Company",1078426,1636,10000101,99991231
+"","Compass Bancshares, Inc.","Bank Holding Company",1078529,780,10000101,99991231
+"","AmSouth Bancorporation","Bank Holding Company",1078604,25,10000101,99991231
+"","Synovus Financial Corp.","Bank Holding Company",1078846,781,10000101,99991231
+"","Hibernia Corporation","Bank Holding Company",1078921,2141,10000101,99991231
+"","SouthTrust Corporation","Bank Holding Company",1079441,3987,10000101,99991231
+"","Trustmark Corporation","Bank Holding Company",1079562,1658,10000101,99991231
+"","Bank South Corporation","Bank Holding Company",1079638,550,10000101,99991231
+"","Whitney Holding Corporation","Bank Holding Company",1079740,26508,10000101,99991231
+"","Deposit Guaranty Corp.","Bank Holding Company",1079946,1292,10000101,99991231
+"","First Commerce Corporation","Bank Holding Company",1080371,1668,10000101,99991231
+"","Colonial BancGroup, Inc.","Bank Holding Company",1080465,4128,10000101,99991231
+"","Fidelity Southern Corporation","Bank Holding Company",1081118,13403,10000101,99991231
+"","Bank Corporation of Georgia","Bank Holding Company",1081181,14597,10000101,99991231
+"","Southwest Georgia Financial Corporation","Bank Holding Company",1081538,31718,10000101,99991231
+"","Central and Southern Holding Company","Bank Holding Company",1081800,9535,10000101,99991231
+"","First State Corporation","Bank Holding Company",1081864,13039,10000101,99991231
+"","ABC Bancorp","Bank Holding Company",1082067,13092,10000101,99991231
+"","First National Bancorp","Bank Holding Company",1082106,6866,10000101,99991231
+"","Capital Bancorp","Bank Holding Company",1082115,13878,10000101,99991231
+"","Suburban Bankshares, Inc.","Bank Holding Company",1082665,8285,10000101,99991231
+"","First Banking Company of Southeast Georgia","Bank Holding Company",1083130,12628,10000101,99991231
+"","Century South Banks, Inc.","Bank Holding Company",1083251,10423,10000101,99991231
+"","First National Bankshares, Inc.","Bank Holding Company",1083297,30872,10000101,99991231
+"","United Financial Holdings, Inc.","Bank Holding Company",1083354,16345,10000101,99991231
+"","Citizens Holding Company","Bank Holding Company",1083475,36338,10000101,99991231
+"","PAB Bankshares, Inc.","Bank Holding Company",1083934,31694,10000101,99991231
+"","Britton & Koontz Capital Corporation","Bank Holding Company",1084212,15045,10000101,99991231
+"","Citi-Bancshares, Inc.","Bank Holding Company",1084847,12892,10000101,99991231
+"","Seacoast Banking Corporation of Florida","Bank Holding Company",1085013,6827,10000101,99991231
+"","Colony Bankcorp, Inc.","Bank Holding Company",1085170,16037,10000101,99991231
+"","New Iberia Bancorp, Inc.","Bank Holding Company",1085406,30935,10000101,99991231
+"","Capital City Bank Group, Inc.","Bank Holding Company",1085509,15307,10000101,99991231
+"","United Security Bancshares, Inc.","Bank Holding Company",1086168,37750,10000101,99991231
+"","Hancock Holding Company","Bank Holding Company",1086533,10954,10000101,99991231
+"","MidSouth Bancorp, Inc.","Bank Holding Company",1086654,29811,10000101,99991231
+"","Habersham Bancorp","Bank Holding Company",1086766,13849,10000101,99991231
+"","MB Financial, Inc.","Bank Holding Company",1090987,13660,10000101,99991231
+"","Boatmen's Bancshares, Inc.","Bank Holding Company",1093586,594,10000101,99991231
+"","Mark Twain Bancshares, Inc.","Bank Holding Company",1093634,3086,10000101,99991231
+"","National Commerce Financial Corp.","Bank Holding Company",1093728,3143,10000101,99991231
+"","Worthen Banking Corporation","Bank Holding Company",1093942,21939,10000101,99991231
+"","Mercantile Bancorporation, Inc.","Bank Holding Company",1094211,3079,10000101,99991231
+"","Union Planters Corporation","Bank Holding Company",1094369,4703,10000101,99991231
+"","First Horizon National Corporation","Bank Holding Company",1094640,1856,10000101,99991231
+"","Simmons First National Corporation","Bank Holding Company",1094828,7460,10000101,99991231
+"","Magna Group, Inc.","Bank Holding Company",1095478,5841,10000101,99991231
+"","Area Bancshares Corporation","Bank Holding Company",1095571,14277,10000101,99991231
+"","First M & F Corporation","Bank Holding Company",1095982,14940,10000101,99991231
+"","Liberty National Bancorp, Inc.","Bank Holding Company",1096185,2687,10000101,99991231
+"","First United Bancshares, Inc.","Bank Holding Company",1096439,7244,10000101,99991231
+"","First Commercial Corporation","Bank Holding Company",1096523,1021,10000101,99991231
+"","Republic Bancorp, Inc.","Bank Holding Company",1097025,16222,10000101,99991231
+"","Bank of the Ozarks, Inc.","Bank Holding Company",1097089,15596,10000101,99991231
+"","Community Bancshars, Inc.","Bank Holding Company",1097203,9766,10000101,99991231
+"","Ambanc Corp.","Bank Holding Company",1097584,11827,10000101,99991231
+"","BancorpSouth, Inc.","Bank Holding Company",1097614,7784,10000101,99991231
+"","Southside Bancshares, Inc.","Bank Holding Company",1098068,12100,10000101,99991231
+"","Mid-America Bancorp","Bank Holding Company",1098095,543,10000101,99991231
+"","Old National Bancorp","Bank Holding Company",1098303,7067,10000101,99991231
+"","German American Bancorp","Bank Holding Company",1098620,12139,10000101,99991231
+"","Cass Information Systems, Inc.","Bank Holding Company",1098648,14781,10000101,99991231
+"","Farmers Capital Bank Corporation","Bank Holding Company",1098732,8788,10000101,99991231
+"","Peoples Holding Company","Bank Holding Company",1098844,11479,10000101,99991231
+"","CBT Corporation","Bank Holding Company",1098965,11527,10000101,99991231
+"","Peoples First Corporation","Bank Holding Company",1099056,10488,10000101,99991231
+"","CNB Bankshares, Inc.","Bank Holding Company",1099467,7471,10000101,99991231
+"","NBC Capital Corporation","Bank Holding Company",1100037,37139,10000101,99991231
+"","Trans Financial, Inc.","Bank Holding Company",1100082,8168,10000101,99991231
+"","Mississippi Valley Bancshares, Inc","Bank Holding Company",1100233,12262,10000101,99991231
+"","National Bancshares Corporation of Texas","Bank Holding Company",1100840,3128,10000101,99991231
+"","Victoria Bankshares, Inc.","Bank Holding Company",1102125,4799,10000101,99991231
+"","First Financial Bankshares, Inc.","Bank Holding Company",1102312,12525,10000101,99991231
+"","Cullen/Frost Bankers, Inc.","Bank Holding Company",1102367,840,10000101,99991231
+"","Charter Bancshares, Inc.","Bank Holding Company",1103449,10837,10000101,99991231
+"","First Banks America, Inc.","Bank Holding Company",1103524,1168,10000101,99991231
+"","Summit Bancshares, Inc.","Bank Holding Company",1104080,12116,10000101,99991231
+"","International Bancshares Corporation","Bank Holding Company",1104231,31854,10000101,99991231
+"","Independent Bankshares, Inc.","Bank Holding Company",1104576,2258,10000101,99991231
+"","Sterling Bancshares, Inc.","Bank Holding Company",1105425,11767,10000101,99991231
+"","First Amarillo Bancorporation","Bank Holding Company",1107371,6405,10000101,99991231
+"","Bay Bancshares, Inc.","Bank Holding Company",1108435,15808,10000101,99991231
+"","Prime Bancshares, Inc.","Bank Holding Company",1109517,15719,10000101,99991231
+"","Prosperity Bancshares, Inc.","Bank Holding Company",1109599,16313,10000101,99991231
+"","Texas Regional Bancshares, Inc.","Bank Holding Company",1109656,12923,10000101,99991231
+"","Baybanks, Inc.","Bank Holding Company",1110344,461,10000101,99991231
+"","Century Bancorp, Inc.","Bank Holding Company",1111088,9193,10000101,99991231
+"","State Street Boston Corporation","Bank Holding Company",1111435,4260,10000101,99991231
+"","UST Corporation","Bank Holding Company",1111583,5303,10000101,99991231
+"","BankBoston Corporation","Bank Holding Company",1112076,20264,10000101,99991231
+"","FleetBoston Financial Corporation","Bank Holding Company",1113514,20734,10000101,99991231
+"","Chittenden Corporation","Bank Holding Company",1114605,991,10000101,99991231
+"","Bank of New Hampshire Corporation","Bank Holding Company",1114726,6755,10000101,99991231
+"","First Financial Corp.","Bank Holding Company",1114799,14616,10000101,99991231
+"","Vermont Financial Services Corp.","Bank Holding Company",1114931,6000,10000101,99991231
+"","Union Bankshares, Inc.","Bank Holding Company",1114940,42549,10000101,99991231
+"","Cornerstone Financial Corporation","Bank Holding Company",1114986,7760,10000101,99991231
+"","Washington Trust Bancorp, Inc.","Bank Holding Company",1115349,9239,10000101,99991231
+"","Westbank Corporation","Bank Holding Company",1115367,13360,10000101,99991231
+"","Bar Harbor Bankshares","Bank Holding Company",1115385,32069,10000101,99991231
+"","CoreStates Financial Corp","Bank Holding Company",1116300,3552,10000101,99991231
+"","Univest Corporation of Pennsylvania","Bank Holding Company",1116609,44293,10000101,99991231
+"","Dauphin Deposit Corporation","Bank Holding Company",1116702,1248,10000101,99991231
+"","First Eastern Corp.","Bank Holding Company",1116953,5086,10000101,99991231
+"","State Bancshares, Inc.","Bank Holding Company",1116999,12562,10000101,99991231
+"","National Penn Bancshares, Inc.","Bank Holding Company",1117026,6523,10000101,99991231
+"","Fulton Financial Corporation","Bank Holding Company",1117129,5440,10000101,99991231
+"","Susquehanna Bancshares, Inc.","Bank Holding Company",1117156,7050,10000101,99991231
+"","Keystone Heritage Group, Inc.","Bank Holding Company",1117183,7665,10000101,99991231
+"","Harleysville National Corporation","Bank Holding Company",1117192,8544,10000101,99991231
+"","Drovers Bancshares Corporation","Bank Holding Company",1117222,16132,10000101,99991231
+"","Omega Financial Corporation","Bank Holding Company",1117259,11457,10000101,99991231
+"","Independence Bancorp","Bank Holding Company",1117268,6686,10000101,99991231
+"","AmeriServ Financial, Inc.","Bank Holding Company",1117316,7407,10000101,99991231
+"","First Colonial Group, Inc.","Bank Holding Company",1117482,12388,10000101,99991231
+"","Commerce Bancorp, Inc.","Bank Holding Company",1117679,7263,10000101,99991231
+"","Penns Woods Bancorp, Inc.","Bank Holding Company",1117688,42396,10000101,99991231
+"","Community Banks, Inc.","Bank Holding Company",1117709,9772,10000101,99991231
+"","Sun Bancorp, Inc.","Bank Holding Company",1117718,12062,10000101,99991231
+"","BT Financial Corporation","Bank Holding Company",1117736,7519,10000101,99991231
+"","Keystone Financial, Inc.","Bank Holding Company",1117781,7366,10000101,99991231
+"","Heritage Bancorp, Inc.","Bank Holding Company",1117811,9393,10000101,99991231
+"","Lake Ariel Bancorp, Inc.","Bank Holding Company",1118210,12653,10000101,99991231
+"","Comm Bancorp, Incorporated","Bank Holding Company",1118229,14729,10000101,99991231
+"","B.M.J. Financial Corp.","Bank Holding Company",1118256,7529,10000101,99991231
+"","Penn Central Bancorp, Inc.","Bank Holding Company",1118322,11986,10000101,99991231
+"","CNB Financial Corporation","Bank Holding Company",1118340,16300,10000101,99991231
+"","U.S. Bancorp","Bank Holding Company",1119794,1645,10000101,99991231
+"","Norwest Corporation","Bank Holding Company",1120754,21305,10000101,99991231
+"","Michigan Financial Corporation","Bank Holding Company",1121779,11629,10000101,99991231
+"","National City Bancorporation","Bank Holding Company",1123531,3144,10000101,99991231
+"","North Country Financial Corporation","Bank Holding Company",1123933,41979,10000101,99991231
+"","Popular, Inc.","Bank Holding Company",1129382,475,10000101,99991231
+"","Auburn National Bancorporation, Inc.","Bank Holding Company",1129533,13966,10000101,99991231
+"","First-Knox Banc Corp.","Bank Holding Company",1130007,12962,10000101,99991231
+"","Camden National Corporation","Bank Holding Company",1130249,32101,10000101,99991231
+"","Constellation Bancorp","Bank Holding Company",1130472,3257,10000101,99991231
+"","Garden State Bankshares, Inc.","Bank Holding Company",1130520,12936,10000101,99991231
+"","FNB Financial Services Corporation","Bank Holding Company",1130696,13708,10000101,99991231
+"","Century Bancshares Incorporated","Bank Holding Company",1130847,15704,10000101,99991231
+"","Suffolk Bancorp","Bank Holding Company",1130865,8451,10000101,99991231
+"","Premier Bancorp, Inc.","Bank Holding Company",1130892,7373,10000101,99991231
+"","Rock Financial Corporation","Bank Holding Company",1131022,9770,10000101,99991231
+"","Community Banshares, Incorporated","Bank Holding Company",1131170,32021,10000101,99991231
+"","Corpus Christi Bancshares, Inc.","Bank Holding Company",1131228,29997,10000101,99991231
+"","Allied Bankshares, Inc.","Bank Holding Company",1131536,9034,10000101,99991231
+"","Cupertino National Bancorp","Bank Holding Company",1131590,10324,10000101,99991231
+"","SunTrust Banks, Inc.","Bank Holding Company",1131787,21691,10000101,99991231
+"","Union Bankshares, Ltd.","Bank Holding Company",1131965,12043,10000101,99991231
+"","Peoples BancTrust Company, Inc. (The)","Bank Holding Company",1132298,13137,10000101,99991231
+"","Integra Bank Corporation","Bank Holding Company",1132654,11264,10000101,99991231
+"","First United Corporation","Bank Holding Company",1132672,11691,10000101,99991231
+"","ANB Corporation","Bank Holding Company",1132702,10890,10000101,99991231
+"","New England Community Bancorp, Inc.","Bank Holding Company",1132869,13411,10000101,99991231
+"","Peoples Financial Corporation","Bank Holding Company",1133174,37522,10000101,99991231
+"","Gateway Bancorp, Inc.","Bank Holding Company",1133240,8614,10000101,99991231
+"","Greene County Bancshares, Inc.","Bank Holding Company",1133277,43615,10000101,99991231
+"","BancFirst Corporation","Bank Holding Company",1133286,12058,10000101,99991231
+"","SCBT Financial Corporation","Bank Holding Company",1133437,31896,10000101,99991231
+"","FNB Corp.","Bank Holding Company",1133473,13139,10000101,99991231
+"","Central Jersey Bancorp","Bank Holding Company",1133736,927,10000101,99991231
+"","First National Lincoln Corporation","Bank Holding Company",1133932,16649,10000101,99991231
+"","Greater Community Bancorp","Bank Holding Company",1134023,15480,10000101,99991231
+"","BNH Bancshares, Inc.","Bank Holding Company",1134096,7832,10000101,99991231
+"","Firstbank Corporation","Bank Holding Company",1134322,41974,10000101,99991231
+"","Glendale Bancorporation","Bank Holding Company",1134386,8608,10000101,99991231
+"","George Mason Bankshares, Inc.","Bank Holding Company",1134685,12256,10000101,99991231
+"","WGNB Corp.","Bank Holding Company",1134911,42654,10000101,99991231
+"","First Commerce Bancshares, Inc.","Bank Holding Company",1134993,7903,10000101,99991231
+"","Republic Bancorp Inc.","Bank Holding Company",1135600,9454,10000101,99991231
+"","Trustcompany Bancorporation, The","Bank Holding Company",1135990,5918,19721214,19931228
+"","United Bancshares, Inc.","Bank Holding Company",1136009,41393,10000101,99991231
+"","Leesport Financial Corp.","Bank Holding Company",1136139,12397,10000101,99991231
+"","Wachovia Corporation","Bank Holding Company",1136157,25115,10000101,99991231
+"","Hudson Chartered Bancorp, Inc.","Bank Holding Company",1136429,11528,10000101,99991231
+"","Greater Bay Bancorp","Bank Holding Company",1136531,14946,10000101,99991231
+"","First Philson Financial Corporation","Bank Holding Company",1136643,32181,10000101,99991231
+"","Independent Bank Corp.","Bank Holding Company",1136803,8179,10000101,99991231
+"","Wayne Bancorp, Inc.","Bank Holding Company",1137592,15265,10000101,99991231
+"","First International Bancorp, Inc.","Bank Holding Company",1137695,15703,10000101,99991231
+"","Guaranty Bancshares Corporation","Bank Holding Company",1137994,7594,10000101,99991231
+"","South Alabama Bancorporation","Bank Holding Company",1138012,7954,10000101,99991231
+"","Yardville National Bancorp","Bank Holding Company",1138517,13766,10000101,99991231
+"","Interchange Financial Services Corporation","Bank Holding Company",1138535,5270,10000101,99991231
+"","Moxham Bank Corporation","Bank Holding Company",1138638,12399,10000101,99991231
+"","SierraWest Bancorp","Bank Holding Company",1138740,11014,10000101,99991231
+"","Team Financial, Inc.","Bank Holding Company",1138795,16598,10000101,99991231
+"","State Bancorp, Inc.","Bank Holding Company",1138861,10429,10000101,99991231
+"","Grenada Sunburst System Corporation","Bank Holding Company",1138889,8216,10000101,99991231
+"","Pinnacle Financial Services, Inc.","Bank Holding Company",1139073,10284,10000101,99991231
+"","Sun Bancorp, Inc.","Bank Holding Company",1139242,14938,10000101,99991231
+"","NBT Bancorp Inc.","Bank Holding Company",1139279,11403,10000101,99991231
+"","Success Bancshares, Inc.","Bank Holding Company",1139457,15769,10000101,99991231
+"","PennRock Financial Services Corp.","Bank Holding Company",1139813,37951,10000101,99991231
+"","National Bankshares, Incorporated","Bank Holding Company",1139925,17469,10000101,99991231
+"","Granite State Bancshares, Inc.","Bank Holding Company",1140118,8493,10000101,99991231
+"","Benson Financial Corporation","Bank Holding Company",1140257,13334,10000101,99991231
+"","Premier Bankshares Corporation","Bank Holding Company",1140462,9423,10000101,99991231
+"","Alliance Financial Corporation","Bank Holding Company",1140510,16380,10000101,99991231
+"","Peoples Bank Corporation of Indianapolis","Bank Holding Company",1140538,12776,10000101,99991231
+"","BMR Financial Group, Inc.","Bank Holding Company",1140592,9782,10000101,99991231
+"","Central Virginia Bankshares, Inc.","Bank Holding Company",1140677,12079,10000101,99991231
+"","Midlantic Corporation","Bank Holding Company",1140743,2921,10000101,99991231
+"","Bryn Mawr Bank Corporation","Bank Holding Company",1140994,7676,10000101,99991231
+"","Second Bancorp, Incorporated","Bank Holding Company",1141067,10624,10000101,99991231
+"","Bank Maryland Corp.","Bank Holding Company",1141290,9767,10000101,99991231
+"","Lamar Capital Corporation","Bank Holding Company",1141414,16354,10000101,99991231
+"","Carolina First Corporation","Bank Holding Company",1141599,8711,10000101,99991231
+"","IBT Bancorp, Inc.","Bank Holding Company",1141674,44034,10000101,99991231
+"","Alabama National BanCorporation","Bank Holding Company",1141786,13443,10000101,99991231
+"","CBC Bancorp, Inc.","Bank Holding Company",1142019,8262,10000101,99991231
+"","FCNB Corp.","Bank Holding Company",1142028,13292,10000101,99991231
+"","Park National Corporation","Bank Holding Company",1142336,10743,10000101,99991231
+"","Codorus Valley Bancorp, Inc.","Bank Holding Company",1142475,15450,10000101,99991231
+"","First National Bank Corp.","Bank Holding Company",1142792,9155,10000101,99991231
+"","CNB Florida Bancshares, Inc.","Bank Holding Company",1143016,16390,10000101,99991231
+"","Allegiance Banc Corporation","Bank Holding Company",1143445,13053,10000101,99991231
+"","Bank of Granite Corporation","Bank Holding Company",1143481,7070,10000101,99991231
+"","Sterling Financial Corporation","Bank Holding Company",1143829,15931,10000101,99991231
+"","Hometown Bancorporation, Inc.","Bank Holding Company",1144143,7586,10000101,99991231
+"","Webster Financial Corporation","Bank Holding Company",1145476,8810,10000101,99991231
+"","First Indiana Corporation","Bank Holding Company",1145506,6246,10000101,99991231
+"","Valencia Bank & Trust","Commercial Bank",1157255,39178,10000101,99991231
+"","Atlantic Bank and Trust Company","Commercial Bank",1167889,14526,10000101,99991231
+"","Virginia Commerce Bank","Commercial Bank",1190074,15675,19970902,19991222
+"","Brenton Banks, Inc.","Bank Holding Company",1199460,632,10000101,99991231
+"","Firstar Corporation","Bank Holding Company",1199479,20726,10000101,99991231
+"","Marshall & Ilsley Corporation","Bank Holding Company",1199497,3042,10000101,99991231
+"","Valley Bancorporation","Bank Holding Company",1199509,4844,10000101,99991231
+"","Hawkeye Bancorporation","Bank Holding Company",1199536,2237,10000101,99991231
+"","Associated Banc-Corp","Bank Holding Company",1199563,362,10000101,99991231
+"","1st Source Corporation","Bank Holding Company",1199602,6281,10000101,99991231
+"","Northern Trust Corporation","Bank Holding Company",1199611,3275,10000101,99991231
+"","First of America Bank Corporation","Bank Holding Company",1199648,1621,10000101,99991231
+"","Old Kent Financial Corporation","Bank Holding Company",1199705,3359,10000101,99991231
+"","Michigan National Corporation","Bank Holding Company",1199714,2969,10000101,99991231
+"","Irwin Financial Corporation","Bank Holding Company",1199732,7502,10000101,99991231
+"","First Chicago NBD Corporation","Bank Holding Company",1199778,3134,19721214,19981001
+"","Comerica Incorporated","Bank Holding Company",1199844,1261,10000101,99991231
+"","First Michigan Bank Corporation","Bank Holding Company",1200003,6217,10000101,99991231
+"","River Forest Bancorp, Inc.","Bank Holding Company",1200393,2343,10000101,99991231
+"","Beverly Bancorporation, Inc.","Bank Holding Company",1200982,14924,10000101,99991231
+"","First Chicago Corp","Bank Holding Company",1201028,20712,19711231,19951130
+"","Independent Bank Corporation","Bank Holding Company",1201925,7720,10000101,99991231
+"","Chemical Financial Corporation","Bank Holding Company",1201934,9882,10000101,99991231
+"","Firstbank of Illinois Co.","Bank Holding Company",1202137,6778,10000101,99991231
+"","First Colonial Bankshares Corporation","Bank Holding Company",1202463,7320,10000101,99991231
+"","Premier Financial Services, Inc.","Bank Holding Company",1202557,7637,10000101,99991231
+"","Northwest Illinois Bancorp, Inc.","Bank Holding Company",1202856,8627,10000101,99991231
+"","First Busey Corporation","Bank Holding Company",1203602,16290,10000101,99991231
+"","Pinnacle Banc Group, Inc.","Bank Holding Company",1204001,10529,10000101,99991231
+"","Edgemark Financial Corporation","Bank Holding Company",1204458,11939,10000101,99991231
+"","F&M Bancorporation","Bank Holding Company",1204805,34874,10000101,99991231
+"","MidWestOne Financial Group, Inc.","Bank Holding Company",1205053,13318,10000101,99991231
+"","Citizens Banking Corporation","Bank Holding Company",1205688,7569,10000101,99991231
+"","Iowa National Bankshares Corp.","Bank Holding Company",1206377,9703,10000101,99991231
+"","Heartland Financial USA, Inc.","Bank Holding Company",1206546,44055,10000101,99991231
+"","UnionBancorp, Inc.","Bank Holding Company",1206591,14996,10000101,99991231
+"","Heritage Financial Services, Inc.","Bank Holding Company",1206612,8653,10000101,99991231
+"","Lake Shore Bancorp, Inc.","Bank Holding Company",1206621,9345,10000101,99991231
+"","Merchants Bancorp, Inc.","Bank Holding Company",1206854,12469,10000101,99991231
+"","Old Second Bancorp, Inc.","Bank Holding Company",1206911,12561,10000101,99991231
+"","Fort Wayne National Corporation","Bank Holding Company",1207002,7330,10000101,99991231
+"","Suburban Bancorp, Inc.","Bank Holding Company",1207356,8400,10000101,99991231
+"","Princeton National Bancorp, Inc.","Bank Holding Company",1207600,11508,10000101,99991231
+"","First Midwest Bancorp, Inc.","Bank Holding Company",1208184,5908,10000101,99991231
+"","First Merchants Corporation","Bank Holding Company",1208559,10218,10000101,99991231
+"","First Financial Corporation","Bank Holding Company",1208595,11371,10000101,99991231
+"","AMCORE Financial, Inc.","Bank Holding Company",1208661,8224,10000101,99991231
+"","Lakeland Financial Corporation","Bank Holding Company",1208906,15657,10000101,99991231
+"","First Oak Brook Bancshares, Inc.","Bank Holding Company",1209097,7860,10000101,99991231
+"","Indiana United Bancorp","Bank Holding Company",1209109,11277,10000101,99991231
+"","Horizon Bancorp","Bank Holding Company",1209136,9389,10000101,99991231
+"","Midwest Banc Holdings, Inc.","Bank Holding Company",1209828,15982,10000101,99991231
+"","West Bancorporation, Inc.","Bank Holding Company",1210066,43261,10000101,99991231
+"","Monroe Bancorp","Bank Holding Company",1210299,41558,10000101,99991231
+"","State Financial Services Corporation","Bank Holding Company",1210413,10673,10000101,99991231
+"","Northern States Financial Corporation","Bank Holding Company",1210589,11009,10000101,99991231
+"","Commercial Bank of New York","Commercial Bank",1212631,12203,10000101,99991231
+"","Southside Bancshares, Inc.","Bank Holding Company",1245068,16107,10000101,99991231
+"","Cole Taylor Financial Group, Inc.","Bank Holding Company",1245219,13108,10000101,99991231
+"","Capital Bancorporation, Inc.","Bank Holding Company",1245312,11075,10000101,99991231
+"","Franklin Resources, Inc.","Bank Holding Company",1246216,6407,10000101,99991231
+"","First Citizens Banc Corp.","Bank Holding Company",1246533,41460,10000101,99991231
+"","First Citizens Bancstock, Inc.","Bank Holding Company",1246636,29962,10000101,99991231
+"","Community First Bankshares, Inc.","Bank Holding Company",1246766,11087,10000101,99991231
+"","Commercebancorp","Bank Holding Company",1246917,8535,10000101,99991231
+"","Capitol Bancorp Ltd.","Bank Holding Company",1247334,10388,10000101,99991231
+"","First United Bancorporation","Bank Holding Company",1247446,13143,10000101,99991231
+"","Shoreline Financial Corporation","Bank Holding Company",1247606,9650,10000101,99991231
+"","Provident Bankshares Corporation","Bank Holding Company",1247633,9630,10000101,99991231
+"","Summit Bank Corporation","Bank Holding Company",1247660,15055,10000101,99991231
+"","BCB Financial Services Corporation","Bank Holding Company",1247802,13191,10000101,99991231
+"","Boston Private Bancorp, Inc.","Bank Holding Company",1248078,12848,10000101,99991231
+"","BNCCORP, Inc.","Bank Holding Company",1248162,13845,10000101,99991231
+"","Sandy Spring Bancorp, Inc.","Bank Holding Company",1248304,14531,10000101,99991231
+"","First Fidelity Bancorporation","Bank Holding Company",1248612,20717,19880229,19951231
+"","MetroBanCorp","Bank Holding Company",1248649,12987,10000101,99991231
+"","ComSouth Bankshares, Inc.","Bank Holding Company",1248676,9855,10000101,99991231
+"","Shawmut National Corporation","Bank Holding Company",1248902,2171,10000101,99991231
+"","Aspen Bancshares, Inc.","Bank Holding Company",1249114,11010,10000101,99991231
+"","Banknorth Group, Inc.","Bank Holding Company",1249196,8782,19880620,20050301
+"","TD Banknorth Inc.","Bank Holding Company",1249196,29152,20050302,99991231
+"","Century Financial Corporation","Bank Holding Company",1249262,14686,10000101,99991231
+"","United Community Banks, Inc.","Bank Holding Company",1249347,42912,10000101,99991231
+"","Columbia Bancorp","Bank Holding Company",1249543,13199,10000101,99991231
+"","First City Bancorp, Inc.","Bank Holding Company",1249637,10306,10000101,99991231
+"","S.Y. Bancorp, Inc.","Bank Holding Company",1249730,12038,10000101,99991231
+"","Hamilton Bancorp Inc.","Bank Holding Company",1249990,35264,10000101,99991231
+"","United National Bancorp","Bank Holding Company",1250259,4679,10000101,99991231
+"","Vista Bancorp, Inc.","Bank Holding Company",1250277,12163,10000101,99991231
+"","BSB Bancorp, Inc.","Bank Holding Company",1250530,7746,10000101,99991231
+"","Commonwealth Bankshares, Incorporated","Bank Holding Company",1250606,40986,10000101,99991231
+"","Commercial Bankshares, Inc.","Bank Holding Company",1250839,12464,10000101,99991231
+"","Camco Financial Group","Bank Holding Company",1251256,13496,10000101,99991231
+"","Cardinal Bancshares, Inc.","Bank Holding Company",1357064,12642,10000101,99991231
+"","Premier Bancshares, Inc","Bank Holding Company",1357091,13535,10000101,99991231
+"","First State Bancorporation","Bank Holding Company",1364071,12531,10000101,99991231
+"","Vineyard National Bancorp","Bank Holding Company",1364110,41821,10000101,99991231
+"","UnionBanCal Corporation","Bank Holding Company",1378434,841,19960401,99991231
+"","Bank of South Windsor","Commercial Bank",1393129,32170,10000101,99991231
+"","West Coast Bancorp, Inc.","Bank Holding Company",1398713,12094,10000101,99991231
+"","Republic First Bancorp, Inc.","Bank Holding Company",1398807,9999,10000101,99991231
+"","Integra Financial Corporation","Bank Holding Company",1398816,3614,19881231,19960502
+"","Eufaula BanCorp, Inc.","Bank Holding Company",1398834,14672,10000101,99991231
+"","Community Capital Corp.","Bank Holding Company",1398937,31913,10000101,99991231
+"","Chattahoochee Bancorp","Bank Holding Company",1399046,11840,10000101,99991231
+"","Carolina Southern Bank","Commercial Bank",1400858,9877,10000101,99991231
+"","Evans Bancorp, Inc.","Bank Holding Company",1401190,41815,10000101,99991231
+"","Lakeland Bancorp, Incorporated","Bank Holding Company",1404799,18304,10000101,99991231
+"","Southwest Banks, Inc.","Bank Holding Company",1406944,14554,10000101,99991231
+"","1st United Bancorp, Inc.","Bank Holding Company",1407035,11698,10000101,99991231
+"","Bank of Nashville","Commercial Bank",1407521,10414,19891211,19960430
+"","Goleta National Bank","Commercial Bank",1412712,15152,19961119,19971230
+"","Madison Bancshares Group, Ltd.","Bank Holding Company",1416493,12018,10000101,99991231
+"","Carolina First Bancshares, Inc.","Bank Holding Company",1416813,35041,10000101,99991231
+"","Franklin Bancorporation, Inc.","Bank Holding Company",1416859,7583,10000101,99991231
+"","First City Bank","Commercial Bank",1419234,37133,10000101,99991231
+"","Six Rivers National Bank","Commercial Bank",1425020,15772,10000101,99991231
+"","Allegiant Bancorp, Inc.","Bank Holding Company",1426812,14016,10000101,99991231
+"","Redwood Empire Bancorp","Bank Holding Company",1426997,29089,10000101,99991231
+"","BankFirst Corporation","Bank Holding Company",1427118,16270,10000101,99991231
+"","ValliCorp Holdings, Inc.","Bank Holding Company",1427248,7006,10000101,99991231
+"","Vectra Banking Corporation","Bank Holding Company",1427350,12945,10000101,99991231
+"","ONBANCorp, Inc.","Bank Holding Company",1427499,9381,10000101,99991231
+"","Banknorth Group, Inc.","Bank Holding Company",1427574,10396,19891201,20000510
+"","Regent Bancshares Corp.","Bank Holding Company",1427583,10199,10000101,99991231
+"","Bank of Marin","Commercial Bank",1436204,17669,10000101,99991231
+"","Long Island Commercial Bank","Commercial Bank",1438589,15922,19980114,19990127
+"","Carrollton Bancorp","Bank Holding Company",1469800,13085,10000101,99991231
+"","First Patriot Bankshares Corporation","Bank Holding Company",1472181,12501,10000101,99991231
+"","Annapolis Bancorp, Inc.","Bank Holding Company",1472257,15728,19971001,99991231
+"","Virginia Commonwealth Financial Corporation","Bank Holding Company",1478026,15593,10000101,99991231
+"","Summit Financial Corporation","Bank Holding Company",1479180,10530,10000101,99991231
+"","BancFirst Ohio Corp.","Bank Holding Company",1480980,12112,10000101,99991231
+"","Savannah Bancorp, Inc.","Bank Holding Company",1493560,10552,10000101,99991231
+"","Metro Financial Corporation","Bank Holding Company",1493757,12172,10000101,99991231
+"","Franklin Financial Corporation","Bank Holding Company",1495229,41554,10000101,99991231
+"","Rockingham Heritage Bank","Commercial Bank",1495331,16298,10000101,99991231
+"","Ambassador Bank of the Commonwealth","Commercial Bank",1496020,15762,10000101,99991231
+"","Sterling Bank","Commercial Bank",1819366,44291,10000101,99991231
+"","Slade's Ferry Bancorp","Bank Holding Company",1820700,15915,10000101,99991231
+"","Commercial National Financial Corporation","Bank Holding Company",1823738,14687,10000101,99991231
+"","Premier Community Bankshares Incorporated","Bank Holding Company",1826047,15009,10000101,99991231
+"","Centura Banks, Inc.","Bank Holding Company",1826056,28913,10000101,99991231
+"","Surety Capital Corporation","Bank Holding Company",1839270,9816,10000101,99991231
+"","PrivateBancorp, Inc.","Bank Holding Company",1839319,16624,10000101,99991231
+"","Cathay General Bancorp, Inc.","Bank Holding Company",1843080,10805,10000101,99991231
+"","Cascade Bancorp","Bank Holding Company",1848003,12784,10000101,99991231
+"","Guaranty Bancshares, Inc.","Bank Holding Company",1862036,16115,10000101,99991231
+"","Merit Holding Corporation","Bank Holding Company",1864218,13804,10000101,99991231
+"","Tysons Financial Corporation","Bank Holding Company",1867602,14660,10000101,99991231
+"","Old York Road Bancorp, Inc.","Bank Holding Company",1870666,12609,10000101,99991231
+"","MBNA Corporation","Bank Holding Company",1871159,28976,10000101,99991231
+"","BOK Financial Corporation","Bank Holding Company",1883693,11106,10000101,99991231
+"","Wilmington Trust Corporation","Bank Holding Company",1888193,4923,10000101,99991231
+"","Charter One Financial, Inc.","Bank Holding Company",1923946,9662,10000101,99991231
+"","Signal Corp.","Bank Holding Company",1924037,9078,10000101,99991231
+"","Community Bank of Northern Virginia","Commercial Bank",1931941,41268,10000101,99991231
+"","Mid Penn Bancorp, Inc.","Bank Holding Company",1944204,32185,10000101,99991231
+"","Citigroup, Inc.","Bank Holding Company",1951350,20483,10000101,99991231
+"","Mason-Dixon Bancshares, Inc.","Bank Holding Company",1951789,12065,10000101,99991231
+"","Independence Community Bank Corp.","Bank Holding Company",1952441,16016,10000101,99991231
+"","Crescent Banking Company","Bank Holding Company",1958827,16375,10000101,99991231
+"","Citizens National Corporation","Bank Holding Company",1958845,11784,10000101,99991231
+"","Union Bankshares Corporation","Bank Holding Company",1971693,12461,10000101,99991231
+"","Mahoning National Bancorp, Incorporated","Bank Holding Company",1980891,15913,10000101,99991231
+"","Cowlitz Bancorporation","Bank Holding Company",1984040,16006,10000101,99991231
+"","Triangle Bancorp, Inc.","Bank Holding Company",1993006,12883,10000101,99991231
+"","Glen Burnie Bancorp","Bank Holding Company",2001328,41698,10000101,99991231
+"","Glacier Bancorp, Inc.","Bank Holding Company",2003975,6944,10000101,99991231
+"","Premier Financial Bancorp, Inc.","Bank Holding Company",2007647,14633,10000101,99991231
+"","Merrill Merchants Bancshares, Inc.","Bank Holding Company",2009294,16259,10000101,99991231
+"","Ohio Valley Banc Corp.","Bank Holding Company",2012436,14355,10000101,99991231
+"","Prestige Financial Corp.","Bank Holding Company",2022930,12621,10000101,99991231
+"","Merchants New York Bancorp, Inc.","Bank Holding Company",2023012,2795,10000101,99991231
+"","First United Bank Group","Bank Holding Company",2033721,590,10000101,99991231
+"","Exchange National Bancshares, Inc.","Bank Holding Company",2038409,37716,10000101,99991231
+"","Intervest Bancshares Corporation","Bank Holding Company",2049302,15848,10000101,99991231
+"","Community Bankshares, Inc.","Bank Holding Company",2074407,31791,10000101,99991231
+"","Columbia Banking System, Inc.","Bank Holding Company",2078816,11576,10000101,99991231
+"","Greenpoint Financial Corp","Bank Holding Company",2081124,12807,19940128,20040930
+"","MCB Financial Corporation","Bank Holding Company",2109617,36560,10000101,99991231
+"","NSD Bancorp, Inc.","Bank Holding Company",2123958,12334,10000101,99991231
+"","Quad City Holdings, Inc.","Bank Holding Company",2125813,12462,10000101,99991231
+"","Banner Corporation","Bank Holding Company",2126977,14091,10000101,99991231
+"","Monocacy Bancshares, Incorporated","Bank Holding Company",2127871,15554,10000101,99991231
+"","New York Community Bancorp, Inc.","Bank Holding Company",2132932,12608,10000101,99991231
+"","WVS Financial Corp.","Bank Holding Company",2140115,12618,10000101,99991231
+"","Vail Banks, Inc.","Bank Holding Company",2141028,16339,10000101,99991231
+"","Admirality Bancorp, Inc.","Bank Holding Company",2142548,16287,10000101,99991231
+"","Heritage Financial Corporation","Bank Holding Company",2166124,15918,10000101,99991231
+"","Independent Community Bancshares, Incorporated","Bank Holding Company",2176413,39167,10000101,99991231
+"","Unity Bancorp, Inc.","Commercial Bank",2181426,31907,10000101,99991231
+"","C&F Financial Corporation","Bank Holding Company",2183493,15926,10000101,99991231
+"","Doral Financial Corporation","Bank Holding Company",2184164,10053,10000101,99991231
+"","Dearborn Bancorp, Inc.","Bank Holding Company",2193906,16046,10000101,99991231
+"","CNB Financial Corporation","Bank Holding Company",2194976,13081,10000101,99991231
+"","Pointe Financial Corporation","Bank Holding Company",2224257,16151,10000101,99991231
+"","Union National Bancorp, Incorporated","Bank Holding Company",2227258,16062,10000101,99991231
+"","FB&T Financial Corporation","Bank Holding Company",2235123,12683,10000101,99991231
+"","First Sterling Banks, Incorporated","Bank Holding Company",2236447,15424,10000101,99991231
+"","Cooperative Bankshares, Inc.","Bank Holding Company",2241937,11095,10000101,99991231
+"","Security Bank Corporation","Bank Holding Company",2244358,15864,10000101,99991231
+"","Northern Bank of Commerce","Commercial Bank",2245056,13464,10000101,99991231
+"","Heritage Oaks Bancorp","Bank Holding Company",2253529,45560,10000101,99991231
+"","Wintrust Financial Corporation","Bank Holding Company",2260406,15385,10000101,99991231
+"","CFB Bancorp, Inc.","Bank Holding Company",2262455,12284,10000101,99991231
+"","Bancorp Connecticut, Inc.","Bank Holding Company",2262914,8365,10000101,99991231
+"","Central Coast Bancorp","Bank Holding Company",2263407,16114,10000101,99991231
+"","Gulf West Banks, Inc.","Bank Holding Company",2267553,16025,10000101,99991231
+"","Capital One Financial Corporation","Bank Holding Company",2277860,30513,19941116,99991231
+"","Regency Bancorp","Bank Holding Company",2283496,16096,10000101,99991231
+"","ISB Financial Corporation","Bank Holding Company",2291914,13657,10000101,99991231
+"","First Shares Bancorp, Inc.","Bank Holding Company",2294700,43975,10000101,99991231
+"","Bank of South Carolina Corporation","Bank Holding Company",2297701,8677,10000101,99991231
+"","California Independent Bancorp","Bank Holding Company",2299125,14855,10000101,99991231
+"","U.S. Trust Corporation","Bank Holding Company",2309912,13949,10000101,99991231
+"","American River Bankshares","Bank Holding Company",2312837,40193,10000101,99991231
+"","First Southern Bancshares, Inc.","Bank Holding Company",2313704,13674,10000101,99991231
+"","James River Bankshares, Inc.","Bank Holding Company",2314233,13032,19950601,20010701
+"","Community Financial Corp.","Bank Holding Company",2318446,13822,10000101,99991231
+"","First Mariner Bancorp","Bank Holding Company",2322304,15250,10000101,99991231
+"","Pacific Northwest Bancorp","Bank Holding Company",2323057,11020,10000101,99991231
+"","Royal Bancshares of Pennsylvania, Inc.","Bank Holding Company",2324429,9490,10000101,99991231
+"","Capital Corp of the West","Bank Holding Company",2332750,14291,10000101,99991231
+"","Investors Financial Services Corp.","Bank Holding Company",2337045,14112,10000101,99991231
+"","First Community Corporation","Bank Holding Company",2337401,43845,10000101,99991231
+"","Great Southern Bancorp, Inc.","Bank Holding Company",2339133,10421,10000101,99991231
+"","MetroCorp Bancshares, Inc.","Bank Holding Company",2344799,16351,10000101,99991231
+"","SNB Bancshares, Inc.","Bank Holding Company",2345077,45487,10000101,99991231
+"","Humboldt Bancorp","Bank Holding Company",2349860,18707,10000101,99991231
+"","Southern Financial Bancorp, Inc.","Bank Holding Company",2352990,12671,10000101,99991231
+"","Republic Security Financial Corporation","Bank Holding Company",2354417,7845,10000101,99991231
+"","Community Bank Shares of Indiana, Inc.","Bank Holding Company",2356073,13663,10000101,99991231
+"","Norwood Financial Corp.","Bank Holding Company",2365356,15993,10000101,99991231
+"","Tompkins Trustco, Inc.","Bank Holding Company",2367921,8228,10000101,99991231
+"","American Bancshares, Inc.","Bank Holding Company",2370770,14342,10000101,99991231
+"","FirstFed Bancorp, Inc.","Bank Holding Company",2376567,15417,10000101,99991231
+"","California Community Bancshares Corporation","Bank Holding Company",2378422,14434,10000101,99991231
+"","Columbia Bancorp","Bank Holding Company",2378440,16311,10000101,99991231
+"","Southwest Bancorporation of Texas, Inc.","Bank Holding Company",2384021,15289,10000101,99991231
+"","Republic Bancshares, Inc.","Bank Holding Company",2387004,12736,10000101,99991231
+"","TCF Financial Corporation","Bank Holding Company",2389941,8292,10000101,99991231
+"","Community Financial Group, Inc.","Bank Holding Company",2398608,10414,19960501,20020731
+"","Washington Banking Company","Bank Holding Company",2406174,16173,10000101,99991231
+"","Patriot Bank Corp.","Bank Holding Company",2410283,14184,10000101,99991231
+"","Shore Bancshares, Inc.","Bank Holding Company",2429838,41464,10000101,99991231
+"","FNB Corporation","Bank Holding Company",2432614,16199,10000101,99991231
+"","Iroquois Bancorp, Inc.","Bank Holding Company",2439426,7965,10000101,99991231
+"","Grand Premier Financial, Inc.","Bank Holding Company",2441559,14928,10000101,99991231
+"","Community Central Bank Corporation","Bank Holding Company",2443526,42539,10000101,99991231
+"","R & G Financial Corporation","Bank Holding Company",2452180,14925,10000101,99991231
+"","Eldorado Bancshares, Inc.","Bank Holding Company",2454894,16393,10000101,99991231
+"","TIB Financial Corp.","Bank Holding Company",2457943,15532,10000101,99991231
+"","Sussex Bancorp","Bank Holding Company",2461463,34666,10000101,99991231
+"","Atlantic Financial Corporation","Bank Holding Company",2463131,13980,10000101,99991231
+"","Classic Bancshares, Inc.","Bank Holding Company",2469245,14273,10000101,99991231
+"","SVB Financial Services, Inc.","Bank Holding Company",2473484,16197,10000101,99991231
+"","St. Joseph Capital Corporation","Bank Holding Company",2474931,44005,10000101,99991231
+"","1st Independence Financial Group, Inc.","Bank Holding Company",2484202,14019,10000101,99991231
+"","Oriental Financial Group Inc.","Bank Holding Company",2490575,9058,10000101,99991231
+"","Taylor Capital Group, Inc.","Bank Holding Company",2495039,43617,10000101,99991231
+"","CNBC Bancorp","Bank Holding Company",2501798,41814,10000101,99991231
+"","Virginia Financial Group, Inc.","Bank Holding Company",2502049,42653,10000101,99991231
+"","Prime Bancorp, Inc.","Bank Holding Company",2502339,10013,10000101,99991231
+"","Damen Financial Corporation","Bank Holding Company",2507697,14012,10000101,99991231
+"","Bridge View Bancorp","Bank Holding Company",2508425,31816,10000101,99991231
+"","Bank of the Northwest","Commercial Bank",2508779,41458,10000101,99991231
+"","Western Sierra Bancorp","Bank Holding Company",2508788,16679,10000101,99991231
+"","Mid-State Bancshares","Bank Holding Company",2516943,16209,10000101,99991231
+"","Pinnacle Bancshares, Inc.","Bank Holding Company",2520605,8848,10000101,99991231
+"","Guaranty Financial Corporation","Bank Holding Company",2521406,13811,10000101,99991231
+"","NewSouth Bancorp, Inc.","Bank Holding Company",2521509,15426,10000101,99991231
+"","PanAmerican Bancorp","Bank Holding Company",2526764,45181,10000101,99991231
+"","Comstock Bancorp","Bank Holding Company",2536044,11987,10000101,99991231
+"","Countrywide Financial Corporation","Bank Holding Company",2549857,796,10000101,99991231
+"","Covenant Bancorp, Inc.","Bank Holding Company",2558064,13469,10000101,99991231
+"","Pelican Financial, Inc.","Bank Holding Company",2558167,36377,10000101,99991231
+"","Cascade Financial Corporation","Bank Holding Company",2568362,11702,10000101,99991231
+"","Community First Banking Company","Bank Holding Company",2569266,15559,10000101,99991231
+"","CoVest Bancshares, Inc.","Bank Holding Company",2570187,11601,10000101,99991231
+"","GLB Bancorp, Inc.","Bank Holding Company",2571755,16117,10000101,99991231
+"","NMBT Corp","Bank Holding Company",2581857,10071,10000101,99991231
+"","Northway Financial, Inc.","Bank Holding Company",2582827,15734,10000101,99991231
+"","Mercantile Bank Corporation","Bank Holding Company",2608763,35205,10000101,99991231
+"","BYL Bancorp","Bank Holding Company",2611101,14709,10000101,99991231
+"","Premier Bancorp, Inc.","Bank Holding Company",2614634,36563,10000101,99991231
+"","Warwick Community Bancorp, Inc.","Bank Holding Company",2615770,15903,10000101,99991231
+"","Guaranty Federal Bancshares, Inc.","Bank Holding Company",2618940,13662,10000101,99991231
+"","PSB Bancorp, Inc.","Bank Holding Company",2625489,16216,10000101,99991231
+"","Community West Bancshares","Bank Holding Company",2626299,15152,19971231,99991231
+"","VIB Corp","Bank Holding Company",2626646,15669,19980313,20021226
+"","Eastern Virginia Bankshares, Inc.","Bank Holding Company",2626691,15912,10000101,99991231
+"","Centrue Financial Corporation","Bank Holding Company",2632898,11893,10000101,99991231
+"","Macatawa Bank Corporation","Bank Holding Company",2634696,17665,10000101,99991231
+"","Heritage Commerce Corp.","Bank Holding Company",2634874,34846,10000101,99991231
+"","Shore Financial Corporation","Bank Holding Company",2639011,15662,10000101,99991231
+"","First Western Bank","Commercial Bank",2640772,16370,10000101,99991231
+"","FLAG Financial Corporation","Bank Holding Company",2650315,8803,10000101,99991231
+"","Peapack-Gladstone Financial Corporation","Bank Holding Company",2651590,41007,10000101,99991231
+"","Eagle Bancorp, Inc.","Bank Holding Company",2652104,17183,10000101,99991231
+"","Texas United Bancshares, Incorporated","Bank Holding Company",2663838,43453,10000101,99991231
+"","GB&T Bancshares, Inc.","Bank Holding Company",2670573,16371,10000101,99991231
+"","Main Street Bancorp, Inc.","Bank Holding Company",2674302,16079,10000101,99991231
+"","Cardinal Financial Corporation","Bank Holding Company",2682996,16213,10000101,99991231
+"","ECB Bancorp, Inc.","Bank Holding Company",2686659,16328,10000101,99991231
+"","CNBT Bancshares, Inc.","Bank Holding Company",2691840,15732,10000101,99991231
+"","Florida Banks, Inc.","Bank Holding Company",2693219,16242,10000101,99991231
+"","Salisbury Bancorp, Inc.","Bank Holding Company",2693273,34857,10000101,99991231
+"","Resource Bankshares Corporation","Bank Holding Company",2693358,14524,10000101,99991231
+"","First Washington FinancialCorp","Bank Holding Company",2693488,44116,10000101,99991231
+"","UCBH Holdings, Inc.","Bank Holding Company",2694814,16308,10000101,99991231
+"","FVNB Corp.","Bank Holding Company",2697347,13249,10000101,99991231
+"","Bank of Wilmington","Commercial Bank",2706016,44492,10000101,99991231
+"","Texas Capital Bancshares, Inc.","Bank Holding Company",2706735,44292,10000101,99991231
+"","CCF Holding Company","Bank Holding Company",2708159,13840,10000101,99991231
+"","Alliance Bank Corporation","Commercial Bank",2712978,42534,20011205,20020815
+"","United Financial Corp.","Bank Holding Company",2713715,8587,10000101,99991231
+"","Monarch Bank","Commercial Bank",2718345,44175,10000101,99991231
+"","First National Bancshares, Inc.","Bank Holding Company",2720067,43614,10000101,99991231
+"","Firstar Corporation","Bank Holding Company",2724645,1788,19981120,20010226
+"","Berkshire Bancorp Inc.","Bank Holding Company",2728157,7585,10000101,99991231
+"","Banc Corporation","Bank Holding Company",2731858,16340,10000101,99991231
+"","East West Bancorp, Inc.","Bank Holding Company",2734233,16402,10000101,99991231
+"","Bay View Capital Corporation","Bank Holding Company",2736282,8164,19990301,20060430
+"","Jacksonville Bancorp, Inc.","Bank Holding Company",2737766,43616,10000101,99991231
+"","Capital Bank Corporation","Bank Holding Company",2741156,15901,10000101,99991231
+"","First BanCorp","Bank Holding Company",2744894,8889,10000101,99991231
+"","CCBT Financial Companies Inc.","Bank Holding Company",2745118,7778,10000101,99991231
+"","Tower Financial Corporation","Bank Holding Company",2745604,42116,10000101,99991231
+"","Long Island Financial Corporation","Bank Holding Company",2745752,15922,19990128,20051230
+"","Cornerstone Bancorp, Inc.","Bank Holding Company",2746254,30856,10000101,99991231
+"","Umpqua Holdings Corporation","Bank Holding Company",2747644,16035,10000101,99991231
+"","Bank of the Carolinas","Commercial Bank",2750699,45994,10000101,99991231
+"","Albemarle First Bank","Commercial Bank",2751977,42535,10000101,99991231
+"","Southern Community Bank & Trust","Commercial Bank",2760232,43692,20021112,20040430
+"","Pacific Continental Corporation","Bank Holding Company",2762973,37736,10000101,99991231
+"","Parke Bank","Commercial Bank",2764212,43689,20021121,20050601
+"","Millennium Bankshares Corporation","Bank Holding Company",2767660,42785,10000101,99991231
+"","Community Capital Bancshares, Inc.","Bank Holding Company",2775142,41385,10000101,99991231
+"","Local Financial Corporation","Bank Holding Company",2776073,34723,10000101,99991231
+"","1st State Bancorp, Inc.","Bank Holding Company",2776813,16491,10000101,99991231
+"","1st Constitution Bancorp","Bank Holding Company",2784920,42541,10000101,99991231
+"","Hudson City Bancorp, Inc.","Bank Holding Company",2792680,16646,10000101,99991231
+"","Bancshares of Florida, Inc.","Bank Holding Company",2796624,43781,10000101,99991231
+"","Community Bancorp, Inc.","Bank Holding Company",2801050,15600,10000101,99991231
+"","W Holding Company Incorporated","Bank Holding Company",2801546,7427,10000101,99991231
+"","RHBT Financial Corporation","Bank Holding Company",2803036,17318,10000101,99991231
+"","Integrity Financial Corporation","Bank Holding Company",2803474,42652,10000101,99991231
+"","James Monroe Bancorp, Inc.","Bank Holding Company",2805683,43450,10000101,99991231
+"","Skylands Financial Corporation","Bank Holding Company",2806411,13458,10000101,99991231
+"","Pennsylvania Commerce Bancorp, Inc.","Bank Holding Company",2807614,13291,19990701,99991231
+"","Scripps Financial Corporation","Bank Holding Company",2815682,36354,10000101,99991231
+"","Peoples Bancorp of North Carolina, Inc.","Bank Holding Company",2818245,7788,10000101,99991231
+"","Community Bancorp of New Jersey","Bank Holding Company",2826389,16303,10000101,99991231
+"","Boardwalk Bank","Commercial Bank",2835626,43906,10000101,99991231
+"","Patriot National Bancorp, Inc.","Bank Holding Company",2840479,13294,10000101,99991231
+"","Chester Valley Bancorp Inc.","Bank Holding Company",2844495,9066,10000101,99991231
+"","North Bay Bancorp","Bank Holding Company",2845175,43506,10000101,99991231
+"","Santander BanCorp","Bank Holding Company",2847115,34823,10000101,99991231
+"","Pacific Crest Capital, Inc.","Bank Holding Company",2850656,12727,10000101,99991231
+"","Business Bancorp","Bank Holding Company",2853666,41386,20010306,20040115
+"","Virginia Commerce Bancorp, Inc.","Bank Holding Company",2856377,15675,19991223,99991231
+"","Bancorp Bank (The)","Commercial Bank",2858960,44891,10000101,99991231
+"","Harleysville Savings Financial Corporation","Bank Holding Company",2861492,9473,10000101,99991231
+"","PremierWest Bancorp","Bank Holding Company",2867542,44177,10000101,99991231
+"","Centerstate Banks of Florida, Inc.","Bank Holding Company",2868129,41269,10000101,99991231
+"","Pacific Mercantile Bancorp","Bank Holding Company",2869733,37737,10000101,99991231
+"","Ohio Legacy Corp","Bank Holding Company",2873039,43786,10000101,99991231
+"","Three Rivers Bancorp, Inc.","Bank Holding Company",2873682,37192,10000101,99991231
+"","First Community Bancorp","Bank Holding Company",2875332,37718,10000101,99991231
+"","Bancorp Rhode Island, Inc.","Bank Holding Company",2896458,16022,10000101,99991231
+"","Hanmi Financial Corporation","Bank Holding Company",2900261,41159,10000101,99991231
+"","American Community Bancshares, Inc.","Bank Holding Company",2900784,37912,10000101,99991231
+"","Bank of Oak Ridge","Commercial Bank",2903123,44812,10000101,99991231
+"","BOE Financial Services of VA","Bank Holding Company",2905734,15902,10000101,99991231
+"","MBT Financial Corporation","Bank Holding Company",2907822,44057,10000101,99991231
+"","Monmouth Community Bancorp","Bank Holding Company",2910055,44058,10000101,99991231
+"","Pinnacle Financial Partners, Inc.","Bank Holding Company",2925657,43147,10000101,99991231
+"","Friedman, Billings, Ramsey Group, Inc.","Bank Holding Company",2926636,32183,10000101,99991231
+"","Signature Bank","Commercial Bank",2942690,44999,10000101,99991231
+"","Carolina Bank Holdings, Inc.","Bank Holding Company",2943473,43783,10000101,99991231
+"","MetLife, Inc.","Bank Holding Company",2945824,37138,10000101,99991231
+"","Somerset Hills Bancorp","Bank Holding Company",2950480,43694,10000101,99991231
+"","OptimumBank.com","Commercial Bank",2953418,44059,20030508,20040429
+"","Nara Bancorp, Inc.","Bank Holding Company",2961879,15933,10000101,99991231
+"","Carolina Trust Bank","Commercial Bank",2966614,45996,10000101,99991231
+"","Gateway Financial Holdings, Inc.","Bank Holding Company",2973591,41697,10000101,99991231
+"","Sierra Bancorp","Bank Holding Company",2976396,16578,20010810,99991231
+"","Southern Community Financial Corp.","Bank Holding Company",2981831,42548,10000101,99991231
+"","MountainBank Financial Corporation","Bank Holding Company",2983394,43505,10000101,99991231
+"","Valley Bancorp","Bank Holding Company",2995164,45567,10000101,99991231
+"","Center Financial Corporation","Bank Holding Company",3003178,43612,10000101,99991231
+"","Coast Bancorp","Bank Holding Company",3003570,15345,10000101,99991231
+"","Waccamaw Bankshares, Inc.","Bank Holding Company",3004689,43978,10000101,99991231
+"","F.N.B. Corporation","Bank Holding Company",3005332,8534,20010602,99991231
+"","American Bank Incorporated","Bank Holding Company",3008753,42909,10000101,99991231
+"","United Security Bancshares","Bank Holding Company",3015975,41564,10000101,99991231
+"","Northrim BanCorp Inc.","Bank Holding Company",3025385,28947,10000101,99991231
+"","Bridge Bank, National Association","Commercial Bank",3025406,43843,20030127,20040930
+"","Madison Bancshares, Inc.","Bank Holding Company",3026551,42543,10000101,99991231
+"","Crescent Financial Corporation","Bank Holding Company",3027709,43448,10000101,99991231
+"","Landmark Bancorp, Inc.","Bank Holding Company",3030307,12951,10000101,99991231
+"","Cardinal State Bank","Commercial Bank",3035245,45195,10000101,99991231
+"","Home Federal Bancorp","Bank Holding Company",3059504,9652,10000101,99991231
+"","HFB Financial Corporation","Bank Holding Company",3066977,37724,10000101,99991231
+"","Cavalry Bancorp, Inc.","Bank Holding Company",3072923,16014,10000101,99991231
+"","Placer Sierra Bancshares","Bank Holding Company",3084953,45485,10000101,99991231
+"","Franklin Bancorp, Inc.","Bank Holding Company",3103818,7985,20031023,20040527
+"","EuroBancshares, Inc.","Bank Holding Company",3106864,45482,10000101,99991231
+"","Access National Corporation","Bank Holding Company",3109904,45415,10000101,99991231
+"","ITLA Capital Corporation","Bank Holding Company",3114654,14074,10000101,99991231
+"","Alliance Bankshares Corporation","Bank Holding Company",3123638,42534,20020816,99991231
+"","Provident Financial Services, Inc.","Bank Holding Company",3133637,43857,10000101,99991231
+"","Bridge Street Financial, Inc.","Bank Holding Company",3138119,43847,10000101,99991231
+"","BNC Bancorp","Bank Holding Company",3141650,44287,10000101,99991231
+"","First Financial Service Corporation","Bank Holding Company",3150997,9341,10000101,99991231
+"","SuffolkFirst Bank","Commercial Bank",3153288,45434,10000101,99991231
+"","Coast Financial Holdings, Inc.","Bank Holding Company",3155769,44618,10000101,99991231
+"","Union Financial Bancshares, Incorporated","Bank Holding Company",3177341,16200,10000101,99991231
+"","Great Lakes Bancorp, Inc.","Bank Holding Company",3180640,8164,20060501,99991231
+"","East Penn Financial Corporation","Bank Holding Company",3186240,41270,10000101,99991231
+"","Bank Holdings (The)","Bank Holding Company",3192997,45001,10000101,99991231
+"","First National Bankshares of Florida, Inc.","Bank Holding Company",3217340,44706,10000101,99991231
+"","First Commercial Bancorp, Inc.","Bank Holding Company",3225420,1666,10000101,99991231
+"","Regions Financial Corp (New)","Bank Holding Company",3242838,1620,20040701,99991231
+"","Wilshire Bancorp, Inc.","Bank Holding Company",3248513,16321,20040901,99991231
+"","Village Bank and Trust Financial Corp.","Bank Holding Company",3251027,43692,20040501,99991231
+"","OptimumBank Holdings, Inc.","Bank Holding Company",3251661,44059,20040430,99991231
+"","Southern Missouri Bancorp, Inc.","Bank Holding Company",3266227,12994,10000101,99991231
+"","Bridge Capital Holdings","Bank Holding Company",3280988,43843,20041001,99991231
+"","Parke Bancorp","Bank Holding Company",3347292,43689,20050602,99991231
